@@ -21,6 +21,13 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
+
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
 - [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
 - [x] list syntax required (any unordered or ordered list supported)
 - [x] this is a complete item
@@ -32,11 +39,6 @@ function fancyAlert(arg) {
     $.facebox({div:'#foo'})
   }
 }
-```
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
