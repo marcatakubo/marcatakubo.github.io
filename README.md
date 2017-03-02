@@ -1,3 +1,4 @@
+theme: jekyll-them-cayman
 title: Welcome to marcatakubo's homepage!
 description: Feel free to visit this site and PM me for questions.
 
